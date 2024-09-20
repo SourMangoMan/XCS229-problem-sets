@@ -1,13 +1,30 @@
 # XCS229-problem-sets
 
-In this repository, my written and coded solutions to the five problem sheets over the ten weeks are provided. The code is found in `submission.py` of each `src-...` folder.
+In this repository, my written and coded solutions to the five problem sheets over the ten weeks are provided. The code is found in `submission.py` of each `src-...` folder. The topics in each problem set are as follows
 
-In problem set 1, the titles of the questions were as follows: Convexity of Generalized Linear Models, Linear Regression: Linear in what?, and Logistic Regression: Training stability.
+Problem Set 1:
+- Convexity of Generalized Linear Models
+- Linear Regression: Linear in what?
+- Logistic Regression: Training stability.
 
-In problem set 2, the titles of the questions were as follows: Linear Classifiers (logistic regression and GDA), Incomplete, Positive-Only Labels, and Learning Imbalanced Dataset
+Problem Set 2:
+- Linear Classifiers (logistic regression and GDA)
+- Incomplete, Positive-Only Labels
+- Learning Imbalanced Dataset
 
-In problem set 3, the titles of the questions were as follows: Poisson Regression, Constructing Kernels, and Kernelizing the Perceptron
+Problem Set 3:
+- Poisson Regression
+- Constructing Kernels
+- Kernelizing the Perceptron
 
-In problem set 4, the titles of the questions were as follows: KL Divergence and Maximum Likelihood, Neural Networks: MNIST Image Classification, Spam Classification, and Double Descent on Linear Models
+Problem Set 4:
+- KL Divergence and Maximum Likelihood
+- Neural Networks: MNIST Image Classification
+- Spam Classification
+- Double Descent on Linear Models
 
-In problem set 5, the titles of the questions were as follows: PCA, Semi-supervised EM, Independent Component Analysis, and Implicit Regularization
+Problem Set 5:
+- PCA
+- Semi-supervised EM
+- Independent Component Analysis
+- Implicit Regularization
